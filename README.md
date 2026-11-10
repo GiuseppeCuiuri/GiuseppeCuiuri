@@ -34,4 +34,4 @@ Also in my projects: GraphSAGE, Qiskit, LangGraph, PDDL, SQLite, Maven, JUnit, G
 
 ## Contact
 
-[giuseppecuiuri@gmail.com](mailto:giuseppecuiuri@gmail.com) · [LinkedIn](https://www.linkedin.com/in/giuseppe-cuiuri-708566318)
+[giuseppecuiuri@gmail.com](mailto:giuseppecuiuri@gmail.com) · [LinkedIn](https://www.linkedin.com/in/giuseppecuiuri)
